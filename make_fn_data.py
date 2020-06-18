@@ -4,6 +4,7 @@ from os import listdir
 from os.path import isfile, join
 import xml.etree.ElementTree as ET
 
+#TODO: Change this to your own directory
 FN_FOLDER = "C:\\Users\\danil\\Documents\\Northwestern\\QRG\\Rep\\ea\\FrameNet_1.7\\"
 FN_LU_FOLDER = FN_FOLDER + "lu\\"
 
